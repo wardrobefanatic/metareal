@@ -3,8 +3,7 @@
 <!—- README ——>
 
 
-
-This is Khalisha Tambunan’s instructions for metareal - the critical report.
+## This is Khalisha Tambunan’s instructions for _metareal_ - the critical report.
 
 Each object contains a different section of the critical report according to the table of contents, and 3D object’s visual is an overarching motif derived from the content of the text itself. Alongside each folder are a series of images that accompany the text, labeled accordingly.
 
