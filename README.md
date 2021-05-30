@@ -11,7 +11,9 @@ Each object contains a different section of the critical report according to the
 
 Rendering the critical report in this way enables a non-linear way of reading. Embedding text into this format is a type of encryption of dissemination. I chose this process as I often worked with Blender (an open-source 3D program) throughout the unit,  aspects of the model, both visually and form-ally. I am conveying the idea of modification and fabrication. The text is embedded within the .XML format. of the 3D object, which is accessible through any text editor, such as VS Code. I recommend using TextEdit on Mac, or Notepad on Windows. 
 
+Spacing text on an .XML file was a design challenge as I had to consider the various screen sizes that the text can be accommodated. For easier reading, I have added ASCII art decorative dividers to separate headings and chunks of text using .XML format commenting (<!-- like this for example -->)
+
 Instructions (on a Mac);
 1. To view the object, press Spacebar, or open via Preview.
 2. Click and drag around the 3D object to look around. On a trackpad you can zoom in with 2 fingers.
-2. To read the critical report text(s), right-click on the object and select Open with... program of choice (VS Code OR TextEdit)
+3. To read the critical report text(s), right-click on the object and select Open with... program of choice (VS Code OR TextEdit)
