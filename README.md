@@ -14,8 +14,8 @@ Spacing text on an .XML file was a design challenge as I had to consider the var
 Credits (not) all 3D models from the VG Model Resource (https://www.models-resource.com/)!
 
 Instructions (on a Mac);
-0. Download the file by selecting Code -> Download ZIP.
-1. Unzip the file on your desktop.
-2. To view the object, press Spacebar, or open via Preview.
-3. Click and drag around the 3D object to look around. On a trackpad you can zoom in with 2 fingers.
-4. To read the critical report text(s), right-click on the object and select Open with... program of choice (VS Code OR TextEdit)
+1. Download the file by selecting Code -> Download ZIP.
+2.  Unzip the file on your desktop.
+3. To view the object, press Spacebar, or open via Preview.
+4. Click and drag around the 3D object to look around. On a trackpad you can zoom in with 2 fingers.
+5. To read the critical report text(s), right-click on the object and select Open with... program of choice (VS Code OR TextEdit)
