@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+
+
+
+
+
+<!-- metareal -->
+<!-- a Critical Report by Khalisha Tambunan  -->
+<!-- BAGCD 2021  -->
+<!-- (Alternative titles) Tangible Fata Morganas/Fabula As Praxis   -->
+<!-- How can we use 3D and digital methodologies and materials to reconstruct symbolic meaning, value and histories of forgotten objects from the past?    -->
+<!-- Object 1/5   -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+
+Question of Inquiry
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━☟━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+ 
+How can we use 3D and digital methodologies and materials to reconstruct symbolic meaning, value and histories of forgotten objects from the past?  
+
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━☝︎━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ 
+-->
+
+
+
+
+<!-- 
+
+
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━☟━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+ 
+Preface
+
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━☝︎━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+“When the present has given up on the future, we must listen for the relics of the future in the un-activated potentials of the past.” 
+– Mark Fisher (1968-2017)
+
+The word “fabulate;” according to the Oxford Dicitonary; is to relate as a fable or myth. To talk or narrate in fables. To invent, concot, fabricate. To create stories, to make history, is to reconstruct, to fabulate, in a way that opens other possibilities for the past in the present and the future.
+-Vinciane Despret
+
+
+The coronavirus is still commencing. This pandemic has inevitably prevented humans from physically interacting with each other. Such a consequence has posited unprecedented results. It stopped typical ways of working, and so the solution was mass digitisation and working-from-home protocols. Inevitably, the screen has become a dominant intermediary of our everyday interactions. Inevitably, our interactions, whether that be shopping or socialising, felt transactional. I will preface here that I am no Luddite - technology has enabled us to do the unprecedented. A globalized, networked world was the tool that helped us work remotely was not considered an option only a century ago. We are living in virtual worlds devoid of tactile exchange. "It's easier being in each other's presence, or in each other's absence, than in the constant presence of each other's absence." (Pedrigierli, 2020). 
+
+How can I, as a designer, act as an intermediary between these issues?
+I am interested in how as a designer can investigate the implications of such shifts and transference of mass culture into the digital realm, specifically in the act of translating "hard objects into soft objects" (Seu, 2021) and how (critical) fabulation is involved in that process. In Wadah Archive and Daisy's Anatomy, I explore the use of recontextualising and appropriating existing material into relics - through objects that have no traceable genealogy and through open-source game assets. My practice aims to fabricate, reconstruct and deconstruct narratives to create new meanings, thus hopefully nudge audiences to enter new worlds and consider a more critical way to look at them. I am also interested in the idea that an audience is akin to a player rather than a passive user. 
+
+-->
+
+
+
+<!-- 
+
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━☟━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+ 
+On mass cultural objects, participatory culture, and nostalgia 
+
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━☝︎━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+"Fictional expressions of internet nostalgia are often less concerned with past encounters than with an imagined past that soothes our anxieties about the present." (Monson-Rosen, 2017)
+
+
+If we see the Internet as an archive, we may think of it as more of us archiving ourselves. What if we can imagine the Internet as an alternate dimension, a space that you could visit that you can shape according to your own or someone else's memories has emerged as an antidote to the reality of much of our lives. Wadah Archive and Daisy's Anatomy convey nostalgia in the form of "teleology - a product of the present, projected on to past" (Monson-Rosen, 2017), reflecting what we'd like things to become than what it is. Using existing cultural objects and using them as material for my practice was a conscious design decision. Cultural objects to a certain audience cohort (let's say digital natives in this case) are cultural because their interactions with these objects inextricably link their memories and identity or sense of self. Jon Rafman's practice often utilizes appropriation as a medium, as social commentary, by creating fictional narratives as a way of world-building. His works are (un)intentionally bizarre, reminiscent of the uncanny from the Neue Sachlichkeit and Romanticism.
+
+
+-->
+
+
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━☟━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+ 
+On mass cultural objects, participatory culture, and nostalgia 
+
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━☝︎━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+
+"Fictional expressions of internet nostalgia are often less concerned with past encounters than with an imagined past that soothes our anxieties about the present." (Monson-Rosen, 2017)
+
+
+If we see the Internet as an archive, we may think of it as more of us archiving ourselves. What if we can imagine the Internet as an alternate dimension, a space that you could visit that you can shape according to your own or someone else's memories has emerged as an antidote to the reality of much of our lives. Wadah Archive and Daisy's Anatomy convey nostalgia in the form of "teleology - a product of the present, projected on to past" (Monson-Rosen, 2017), reflecting what we'd like things to become than what it is. Using existing cultural objects and using them as material for my practice was a conscious design decision. Cultural objects to a certain audience cohort (let's say digital natives in this case) are cultural because their interactions with these objects inextricably link their memories and identity or sense of self. Jon Rafman's practice often utilizes appropriation as a medium, as social commentary, by creating fictional narratives as a way of world-building. His works are (un)intentionally bizarre, reminiscent of the uncanny from the Neue Sachlichkeit and Romanticism.
+
+
+-->
+
+
+
+<!--
+
+┍━━━━━━━━━━━━━━━━━━━━━━☟━━━━━━━━━━━━━━━━━━━━┑
+
+NEXT -> Self-directed brief 1, Wadah Archive
+
+┕━━━━━━━━━━━━━━━━━━━━━━☝︎━━━━━━━━━━━━━━━━━━━┙
+
+-->
+
+
+
+
+
+
+
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.81.16 commit date:2019-12-04, commit time:11:32, hash:f1aa4d18d49d</authoring_tool>
+    </contributor>
+    <created>2021-05-29T18:14:02</created>
+    <modified>2021-05-29T18:14:02</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_cameras>
+    <camera id="Camera-camera" name="Camera">
+      <optics>
+        <technique_common>
+          <perspective>
+            <xfov sid="xfov">39.59775</xfov>
+            <aspect_ratio>1.777778</aspect_ratio>
+            <znear sid="znear">0.1</znear>
+            <zfar sid="zfar">100</zfar>
+          </perspective>
+        </technique_common>
+      </optics>
+      <extra>
+        <technique profile="blender">
+          <shiftx sid="shiftx" type="float">0</shiftx>
+          <shifty sid="shifty" type="float">0</shifty>
+          <dof_distance sid="dof_distance" type="float">10</dof_distance>
+        </technique>
+      </extra>
+    </camera>
+  </library_cameras>
+  <library_effects>
+    <effect id="mtl25-effect">
+      <profile_COMMON>
+        <newparam sid="_5_png-surface">
+          <surface type="2D">
+            <init_from>_5_png</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="_5_png-sampler">
+          <sampler2D>
+            <source>_5_png-surface</source>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <lambert>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <diffuse>
+              <texture texture="_5_png-sampler" texcoord="UVMap"/>
+            </diffuse>
+            <index_of_refraction>
+              <float sid="ior">1</float>
+            </index_of_refraction>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_images>
+    <image id="_5_png" name="_5_png">
+      <init_from>25.png</init_from>
+    </image>
+  </library_images>
+  <library_materials>
+    <material id="mtl25-material" name="mtl25">
+      <instance_effect url="#mtl25-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="group0-mesh" name="group0">
+      <mesh>
+        <source id="group0-mesh-positions">
+          <float_array id="group0-mesh-positions-array" count="378">-1.5 -0.15 3.05 1.55 -0.35 2.85 1.5 -0.15 3.05 -1.5 -0.15 3.05 -1.55 -0.35 2.85 1.55 -0.35 2.85 -1.5 0.399999 3.05 1.5 -0.15 3.05 1.5 0.399999 3.05 -1.5 0.399999 3.05 -1.5 -0.15 3.05 1.5 -0.15 3.05 -1.85 -0.15 2.8 -1.55 -0.35 2.85 -1.5 -0.15 3.05 -1.8 -0.35 2.5 -1.55 -0.35 2.85 -1.85 -0.15 2.8 -1.5 0.399999 3.05 -1.85 -0.15 2.8 -1.5 -0.15 3.05 -1.5 0.399999 3.05 -1.85 0.4 2.8 -1.85 -0.15 2.8 1.55 -0.35 2.85 1.85 -0.15 2.8 1.5 -0.15 3.05 1.55 -0.35 2.85 1.8 -0.35 2.5 1.85 -0.15 2.8 -1.5 0.399999 3.05 -1.85 -0.15 2.8 -1.5 -0.15 3.05 -1.5 0.399999 3.05 -1.85 0.4 2.8 -1.85 -0.15 2.8 1.5 0.399999 3.05 1.85 -0.15 2.8 1.85 0.4 2.8 1.5 0.399999 3.05 1.5 -0.15 3.05 1.85 -0.15 2.8 -1.85 0.4 2.8 1.5 0.399999 3.05 1.85 0.4 2.8 -1.85 0.4 2.8 -1.5 0.399999 3.05 1.5 0.399999 3.05 -1.55 -0.35 2.85 1.8 -0.35 2.5 1.55 -0.35 2.85 -1.55 -0.35 2.85 -1.8 -0.35 2.5 1.8 -0.35 2.5 -2 0.4 2.35 -1.85 -0.15 2.8 -1.85 0.4 2.8 -2 0.4 2.35 -2 -0.15 2.35 -1.85 -0.15 2.8 2 0.4 2.35 1.85 -0.15 2.8 2 -0.15 2.35 2 0.4 2.35 1.85 0.4 2.8 1.85 -0.15 2.8 -1.8 -0.35 2.5 -1.85 -0.15 2.8 -2 -0.15 2.35 1.85 -0.15 2.8 1.8 -0.35 2.5 2 -0.15 2.35 -1.85 0.4 2.8 2 0.4 2.35 -2 0.4 2.35 -1.85 0.4 2.8 1.85 0.4 2.8 2 0.4 2.35 -1.8 -0.35 -2.6 1.8 -0.35 2.5 -1.8 -0.35 2.5 -1.8 -0.35 -2.6 1.8 -0.35 -2.6 1.8 -0.35 2.5 -2 0.4 2.35 -2 -0.15 -2.6 -2 -0.15 2.35 -2 0.4 2.35 -2 0.4 -2.6 -2 -0.15 -2.6 2 0.4 2.35 2 -0.15 -2.6 2 0.4 -2.6 2 0.4 2.35 2 -0.15 2.35 2 -0.15 -2.6 -2 0.4 -2.6 2 -0.15 -2.6 -2 -0.15 -2.6 -2 0.4 -2.6 2 0.4 -2.6 2 -0.15 -2.6 -2 -0.15 2.35 -1.8 -0.35 -2.6 -1.8 -0.35 2.5 -2 -0.15 2.35 -2 -0.15 -2.6 -1.8 -0.35 -2.6 2 -0.15 2.35 1.8 -0.35 -2.6 2 -0.15 -2.6 2 -0.15 2.35 1.8 -0.35 2.5 1.8 -0.35 -2.6 -2 -0.15 -2.6 1.8 -0.35 -2.6 -1.8 -0.35 -2.6 -2 -0.15 -2.6 2 -0.15 -2.6 1.8 -0.35 -2.6 -2 0.4 -2.6 2 0.4 2.35 2 0.4 -2.6 -2 0.4 -2.6 -2 0.4 2.35 2 0.4 2.35</float_array>
+          <technique_common>
+            <accessor source="#group0-mesh-positions-array" count="126" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="group0-mesh-normals">
+          <float_array id="group0-mesh-normals-array" count="96">0 -0.707107 0.7071067 0 -0.707107 0.7071067 0 0 1 -0.4832268 -0.5557114 0.6765182 -0.5541561 -0.7322791 0.3958261 -0.5812383 0 0.8137334 -0.5812383 0 0.8137335 0.4832268 -0.5557114 0.6765182 0.5541561 -0.7322791 0.3958261 0.5812383 0 0.8137335 0.5812383 0 0.8137334 0 1 4.18843e-6 0 1 3.8147e-6 0 -1 0 0 -1 1.89221e-7 -0.9486834 0 0.3162275 -0.9486833 0 0.3162281 0.9486833 0 0.3162281 0.9486834 0 0.3162275 -0.7729882 -0.5797408 0.2576625 0.7729883 -0.5797405 0.2576626 0 1 1.32455e-7 0 1 0 0 -1 0 -1 0 0 1 0 0 0 0 -1 -0.7071066 -0.707107 0 -0.7071068 -0.7071068 0 0.7071068 -0.7071068 0 0.7071066 -0.707107 0 0 1 0</float_array>
+          <technique_common>
+            <accessor source="#group0-mesh-normals-array" count="32" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="group0-mesh-map-0">
+          <float_array id="group0-mesh-map-0-array" count="252">0.4539235 0.4835272 0.6068635 0.4603386 0.6029435 0.4835272 0.4539235 0.4835272 0.4500035 0.4603386 0.6068635 0.4603386 0.4539235 0.5415279 0.6029435 0.4835272 0.6029435 0.5415279 0.4539235 0.5415279 0.4539235 0.4835272 0.6029435 0.4835272 0.4382435 0.4835272 0.4500035 0.4603386 0.4539235 0.4835272 0.3754935 0.4255263 0.3754935 0.3907436 0.3833335 0.3907436 0.4539235 0.5415279 0.4382435 0.4835272 0.4539235 0.4835272 0.4539235 0.5415279 0.4382435 0.5415279 0.4382435 0.4835272 0.6068635 0.4603386 0.6225535 0.4835272 0.6029435 0.4835272 0.4343135 0.3907436 0.4343135 0.4255263 0.4264734 0.3907436 0.6303935 0.4835272 0.6264735 0.4719329 0.6303935 0.4603386 0.6303935 0.4835272 0.6264735 0.4835272 0.6264735 0.4719329 0.6029435 0.5415279 0.6225535 0.4835272 0.6225535 0.5415279 0.6029435 0.5415279 0.6029435 0.4835272 0.6225535 0.4835272 0.1911834 0.3907436 0.3480435 0.3675255 0.3637335 0.3907436 0.1911834 0.3907436 0.2107834 0.3675255 0.3480435 0.3675255 0.1715734 0.3675255 6.96434e-4 0.4023379 0.01245641 0.3675255 0.1715734 0.3675255 0.1833334 0.4023379 6.96434e-4 0.4023379 0.4029434 0.4487149 0.3833335 0.3907436 0.4029434 0.3907436 0.4029434 0.4487149 0.3833335 0.4487149 0.3833335 0.3907436 0.4068635 0.4487149 0.4264734 0.3907436 0.4264734 0.4487149 0.4068635 0.4487149 0.4068635 0.3907436 0.4264734 0.3907436 0.3754935 0.4255263 0.3833335 0.3907436 0.3833335 0.4487149 0.4264734 0.3907436 0.4343135 0.4255263 0.4264734 0.4487149 0.1911834 0.3907436 0.3715735 0.4487149 0.1872634 0.4487149 0.1911834 0.3907436 0.3637335 0.3907436 0.3715735 0.4487149 0.1833334 1.000243 6.96434e-4 0.4023379 0.1833334 0.4023379 0.1833334 1.000243 6.96434e-4 1.000243 6.96434e-4 0.4023379 0.4029434 0.4487149 0.3833335 1.000243 0.3833335 0.4487149 0.4029434 0.4487149 0.4029434 1.000243 0.3833335 1.000243 0.4068635 0.4487149 0.4264734 1.000243 0.4068635 1.000243 0.4068635 0.4487149 0.4264734 0.4487149 0.4264734 1.000243 0.6225535 0.4487149 0.4382435 0.3907436 0.6225535 0.3907436 0.6225535 0.4487149 0.4382435 0.4487149 0.4382435 0.3907436 0.3833335 0.4487149 0.3754935 1.000243 0.3754935 0.4255263 0.3833335 0.4487149 0.3833335 1.000243 0.3754935 1.000243 0.4264734 0.4487149 0.4343135 1.000243 0.4264734 1.000243 0.4264734 0.4487149 0.4343135 0.4255263 0.4343135 1.000243 0.6225535 0.3907436 0.4460834 0.3675255 0.6107835 0.3675255 0.6225535 0.3907436 0.4382435 0.3907436 0.4460834 0.3675255 0.1872634 1.000243 0.3715735 0.4487149 0.3715735 1.000243 0.1872634 1.000243 0.1872634 0.4487149 0.3715735 0.4487149</float_array>
+          <technique_common>
+            <accessor source="#group0-mesh-map-0-array" count="126" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="group0-mesh-vertices">
+          <input semantic="POSITION" source="#group0-mesh-positions"/>
+        </vertices>
+        <triangles material="mtl25-material" count="42">
+          <input semantic="VERTEX" source="#group0-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#group0-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#group0-mesh-map-0" offset="2" set="0"/>
+          <p>0 0 0 1 0 1 2 0 2 3 1 3 4 1 4 5 1 5 6 2 6 7 2 7 8 2 8 9 2 9 10 2 10 11 2 11 12 3 12 13 3 13 14 3 14 15 4 15 16 4 16 17 4 17 18 5 18 19 5 19 20 5 20 21 6 21 22 6 22 23 6 23 24 7 24 25 7 25 26 7 26 27 8 27 28 8 28 29 8 29 30 5 30 31 5 31 32 5 32 33 6 33 34 6 34 35 6 35 36 9 36 37 9 37 38 9 38 39 10 39 40 10 40 41 10 41 42 11 42 43 11 43 44 11 44 45 12 45 46 12 46 47 12 47 48 13 48 49 13 49 50 13 50 51 14 51 52 14 52 53 14 53 54 15 54 55 15 55 56 15 56 57 16 57 58 16 58 59 16 59 60 17 60 61 17 61 62 17 62 63 18 63 64 18 64 65 18 65 66 19 66 67 19 67 68 19 68 69 20 69 70 20 70 71 20 71 72 21 72 73 21 73 74 21 74 75 22 75 76 22 76 77 22 77 78 23 78 79 23 79 80 23 80 81 23 81 82 23 82 83 23 83 84 24 84 85 24 85 86 24 86 87 24 87 88 24 88 89 24 89 90 25 90 91 25 91 92 25 92 93 25 93 94 25 94 95 25 95 96 26 96 97 26 97 98 26 98 99 26 99 100 26 100 101 26 101 102 27 102 103 27 103 104 27 104 105 28 105 106 28 106 107 28 107 108 29 108 109 29 109 110 29 110 111 30 111 112 30 112 113 30 113 114 26 114 115 26 115 116 26 116 117 26 117 118 26 118 119 26 119 120 31 120 121 31 121 122 31 122 123 31 123 124 31 124 125 31 125</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="group0" name="group0" type="NODE">
+        <matrix sid="transform">1 0 0 0 0 -1.62921e-7 -1 0 0 1 -1.62921e-7 0 0 0 0 1</matrix>
+        <instance_geometry url="#group0-mesh" name="group0">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="mtl25-material" target="#mtl25-material">
+                <bind_vertex_input semantic="UVMap" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="Camera" name="Camera" type="NODE">
+        <matrix sid="transform">0.6859206 -0.3240135 0.6515583 8.738647 0.7276764 0.3054207 -0.6141704 -8.466438 8.98473e-8 0.8953957 0.4452713 5.870159 0 0 0 1</matrix>
+        <instance_camera url="#Camera-camera"/>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>
