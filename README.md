@@ -13,7 +13,7 @@ Rendering the critical report in this way enables a non-linear way of reading. E
 
 Spacing text on an .XML file was a design challenge as I had to consider the various screen sizes that the text can be accommodated. For easier reading, I have added ASCII art decorative dividers to separate headings and chunks of text using .XML format commenting 
 
-// (<!--) like this for example (-->)
+// like this for example
 
 Instructions (on a Mac);
 1. To view the object, press Spacebar, or open via Preview.
